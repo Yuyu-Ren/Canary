@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
+borked here too.
 # discord-py requirements
 import discord
 from discord.ext import commands
