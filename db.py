@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 
 # discord-py requirements
-nop
 import discord
 from discord.ext import commands
 import asyncio
